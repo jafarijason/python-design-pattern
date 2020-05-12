@@ -1,18 +1,3 @@
-this is a message.
-salam.
-salammm 0.
-salammm 1.
-salammm 2.
-salammm 3.
-salammm 0.
-salammm 1.
-salammm 2.
-salammm 3.
-salammm 0.
-salammm 1.
-salammm 2.
-salammm 3.
-salammm 0.
-salammm 1.
-salammm 2.
-salammm 3.
+[INFO] in etelaato begir.
+[INFO] in etelaato begir.
+[DEBUG] in vase debuging khoobe.
