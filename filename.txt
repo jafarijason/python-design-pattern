@@ -1,2 +1,9 @@
 Log message.
 Log message.
+[CRITICAL] ssss.
+[CRITICAL] ssss.
+[ERROR] some error.
+[WARNING] some warning.
+[INFO] some information.
+[DEBUG] some debug.
+[ERROR] yechizi Moshkel dare.
